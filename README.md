@@ -1,16 +1,17 @@
-### Hi there 👋
+## Am Floppy
+### C++, Light C#, Game Modding, Reverse Engineering 
 
-<!--
-**FloppyDolphin57/FloppyDolphin57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Current Project:
+- Horion Continued - Continued Version of the most used and well know Minecraft Bedrock client, Horion. https://horion.download/
 
-Here are some ideas to get you started:
+## Tools:
+- Visual Studio 2022
+- IDA Pro 7.7
+- ReClass.NET
+- Cheat Engine
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact:
+- Floppy#9408 on Discord.
+
+## Stats:
+![Floppy's GitHub stats](https://github-readme-stats.vercel.app/api?username=FloppyDolphin57&show_icons=true&theme=react)
