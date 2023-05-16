@@ -2,7 +2,7 @@
 ### C++, Light C#, Game Modding, Reverse Engineering 
 
 ## Current Project:
-- Horion Continued - Continued Version of the most used and well know Minecraft Bedrock client, Horion. https://horion.download/
+- Horion Continued - Continued version of the most used and well known Minecraft Bedrock client, Horion. https://horion.download/
 
 ## Tools:
 - Visual Studio 2022
