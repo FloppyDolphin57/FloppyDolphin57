@@ -12,7 +12,7 @@
 - Cheat Engine
 
 ## Contact:
-- FloppyDolphib57 on Discord.
+- FloppyDolphin57 on Discord.
 
 ## Stats:
 ![Floppy's GitHub stats](https://github-readme-stats.vercel.app/api?username=FloppyDolphin57&show_icons=true&theme=react)
